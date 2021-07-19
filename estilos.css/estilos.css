@@ -7,8 +7,7 @@
                         body {
                             background: linear-gradient(120deg, #CAE9FF, #F7ECE1);
                             color: rgb(2, 2, 2);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-                            font-size: normal;
+                            font-family: 'Noto Sans JP', sans-serif;
                             text-align: center;
                             padding: auto;
                             margin: 250px;
@@ -21,16 +20,14 @@
                             font-size: medium;
                             font-style: italic;
                             color: rgb(2, 2, 2);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Noto Sans JP', sans-serif;
                         }
                         /*first title*/
                         
                         h1 {
-                            background-color: rgb(194, 194, 183);
-                            color: rgb(2, 2, 2);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-                            text-align: center;
-                            font-size: xx-large;
+                            background-color: rgb(245, 245, 244);
+                            font-family: 'Encode Sans SC', sans-serif;
+                            font-size: 30px;
                             padding: initial;
                         }
                         /*main content*/
@@ -42,7 +39,7 @@
                             padding: auto;
                             margin: auto;
                             color: rgb(2, 2, 2);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Noto Sans JP', sans-serif;
                             font-size: auto;
                         }
                         /*header and navigator*/
@@ -52,7 +49,7 @@
                             overflow: hidden;
                             text-align: center;
                             color: rgb(255, 250, 250);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Noto Sans JP', sans-serif;
                         }
                         /*creating buttons*/
                         
@@ -62,7 +59,7 @@
                             text-align: center;
                             align-items: center;
                             font-size: 27.5px;
-                            font-family: comic sans-serif;
+                            font-family: 'Noto Sans JP', sans-serif;
                             transition: ease-in 0.4s;
                             font-style: initial;
                             font-display: flex;
@@ -134,7 +131,7 @@
                             border-radius: 25px;
                             box-shadow: inset 0 0 0 0 #E7F0FF;
                             transition: ease-out 1s;
-                            outline: none;
+                            font-family: 'Encode Sans SC', sans-serif;
                         }
                         /*main articles*/
                         
@@ -143,7 +140,7 @@
                             margin-right: 1.5%;
                             float: left;
                             color: rgb(0, 0, 0);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Noto Sans JP', sans-serif;
                         }
                         /*main articles two*/
                         
@@ -162,7 +159,7 @@
                             box-sizing: border-box;
                             font-size: 22.5px;
                             color: rgb(255, 255, 255);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Noto Sans JP', sans-serif;
                         }
                         /*second title*/
                         
@@ -172,7 +169,7 @@
                             display: ruby-base;
                             margin: 30px;
                             color: rgb(2, 2, 2);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Encode Sans SC', sans-serif;
                         }
                         /*third title*/
                         
@@ -180,15 +177,15 @@
                             background-color: #5FA8D3;
                             font-size: 35px;
                             color: rgb(255, 255, 255);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Encode Sans SC', sans-serif;
                         }
                         /*paragraph*/
                         
                         p {
                             color: rgb(2, 2, 2);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Noto Sans JP', sans-serif;
                             font-weight: bolder;
-                            font-size: 22.5px;
+                            font-size: 24.5px;
                         }
                         /*image*/
                         
@@ -214,8 +211,8 @@
                             background-color: #62B6CB;
                             color: white;
                             border: rgb(255, 255, 255);
-                            font-size: xx-large;
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-size: 36.5px;
+                            font-family: 'Encode Sans SC', sans-serif;
                             font-weight: bolder;
                         }
                         /*critems*/
@@ -223,7 +220,7 @@
                         .CRitems {
                             background: linear-gradient(60deg, #BEE9E8, #BEE9E8);
                             color: black;
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Noto Sans JP', sans-serif;
                             font-weight: bolder;
                             font-size-adjust: initial;
                             font-size: 21.5px;
@@ -237,5 +234,9 @@
                             color: rgb(255, 255, 255);
                             margin: auto;
                             border: solid 2 px rgb(5, 5, 5);
-                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            font-family: 'Noto Sans JP', sans-serif;
+                        }
+                        
+                        .cr1 {
+                            font-family: 'Encode Sans SC', sans-serif;
                         }
